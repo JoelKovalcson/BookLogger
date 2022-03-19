@@ -8,7 +8,7 @@ This project focused on migrating from a RESTful API to a GraphQL setup.
 
 ## Preview
 
-![Moneygistics Preview Image](https://github.com/JoelKovalcson/Moneygistics/blob/main/assets/readme-preview.png)
+![BookLogger Preview Image](https://github.com/JoelKovalcson/Moneygistics/blob/main/assets/readme-preview.png)
 
 ## What I Did
 
