@@ -41,7 +41,7 @@ const SignupForm = () => {
         throw new Error('something went wrong!');
       }
 
-      const { token, user } = response.data;
+      const { token, user } = response.data.addUser;
       Auth.login(token);
     } catch (err) {
       console.error(err);
