@@ -6,6 +6,8 @@ The foundation for this project was provided by an online bootcamp for [Full-Sta
 
 This project focused on migrating from a RESTful API to a GraphQL setup.
 
+You can view the live project [here](https://immense-sea-69279.herokuapp.com/)
+
 ## Preview
 
 ![BookLogger Preview Image](https://github.com/JoelKovalcson/Moneygistics/blob/main/assets/readme-preview.png)
